@@ -2,7 +2,7 @@
 
 ## Bank Loan Management System- Project Report
 
-<a href="">Click To View Report In PDF Form</a>
+<a href="https://github.com/aryashah2k/DBMS-Loan-Management-System/blob/main/Project%20Report/DBMS%20Mini%20Project%20Report.pdf">Click To View Report In PDF Form</a>
 
 ## Read Complete Report Here:
 
